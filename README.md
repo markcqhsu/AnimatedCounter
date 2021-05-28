@@ -1,17 +1,9 @@
-# animation_0528_4
+# Flutter 动画教程 1-5 实例（上）（下）：翻滚吧！计数器！
 
-A new Flutter project.
+課程:https://www.bilibili.com/video/BV1Ng4y1B754
 
-## Getting Started
+## 課程內容
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# AnimatedCounter
+- Stack
+- Positioned
+- 自製控件(Widget)
